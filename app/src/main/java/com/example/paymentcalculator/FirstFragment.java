@@ -112,6 +112,7 @@ public class FirstFragment extends Fragment {
             this.binding.edtAmount.setText("");
             this.binding.chckVip.setChecked(false);
             this.binding.txtTotal.setText("");
+            this.binding.edtName.requestFocus();
         }
     }
 
