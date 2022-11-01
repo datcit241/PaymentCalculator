@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PaymentCalculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Payment</string>
+    <string name="second_fragment_label">Statistics</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
